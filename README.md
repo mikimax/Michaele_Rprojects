@@ -1,2 +1,2 @@
 # Michaele_Rprojects
-Those are the R programming assignments that I made throughout data analytics on Coursera.
+Those are the IT Automation projects that I made throughout my learning on Coursera.
